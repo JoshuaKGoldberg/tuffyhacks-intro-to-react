@@ -8,6 +8,12 @@ cd my-app
 npm start
 ```
 
+If you're using this repo from scratch, please first install:
+
+```shell
+npm install
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
